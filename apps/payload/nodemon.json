@@ -1,0 +1,4 @@
+{
+  "ext": "ts",
+  "exec": "pnpx ts-node src/server.ts"
+}
